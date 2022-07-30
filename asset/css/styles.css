@@ -1,0 +1,112 @@
+/*Estilo del header*/
+    .header{
+    background-color: black;
+    height: 73px;
+    padding: 7px;
+    }
+    .header h1{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    font-size: 50px;
+    margin: 0;
+    text-align: center;
+    text-transform: uppercase;
+    }
+/*Estilo del heroe*/
+    .hero{
+    background-color: black;
+    text-align: center;
+    }
+    .hero img {
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    }
+/*Estilo de la descripcion*/
+    .descripcion{
+    background-color: black;
+    margin: 0;
+    width: 100%;
+    text-align: center;
+    padding: 45px;
+    }
+    .textodescriptivo{
+    width: 40%;
+    display: inline-block;
+    margin: auto;
+    vertical-align: middle;
+    }
+    .descripcion p{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    margin: 0;
+    text-align: left;
+    }
+    .iguanauno{
+    width: 40%;
+    display: inline-block;
+    margin-left: 10%;
+    vertical-align: middle;
+    }
+    .descripcion img{
+    width: 399px;
+    }
+/*Estilo de seccion caracteristicas*/
+    .caracteristicas{
+    background-color: #1E1A13;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    opacity: 0.98;
+    }
+    .caracteristicas h2{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 75px;
+    }
+    .iconos{
+    text-align: center;
+    }
+    .iconos div{
+    display: inline-block;
+    }
+    .ico{
+    color: white;
+    width: 30%;
+    }
+    .ico h3{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+    }
+/*Estilo de la Galeria*/
+    .galeria{
+    background-color: black;
+    padding-top: 73px;
+    padding-bottom: 73px;
+    text-align: center;
+    }
+    .img{
+    height: 202px;
+    display: inline-block;
+    margin: 10px;
+    }
+/*Estilo del footer*/
+    .foot{
+    background-color: #1E1A13;
+    padding-top: 39px;
+    padding-bottom: 39px;
+    }
+    .pie{
+    text-align: center;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    }
